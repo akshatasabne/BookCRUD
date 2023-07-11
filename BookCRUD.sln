@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookCRUD", "BookCRUD\BookCRUD.csproj", "{C31C895C-9249-4A39-BDA4-D15D00AB1AFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C31C895C-9249-4A39-BDA4-D15D00AB1AFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C31C895C-9249-4A39-BDA4-D15D00AB1AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C31C895C-9249-4A39-BDA4-D15D00AB1AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C31C895C-9249-4A39-BDA4-D15D00AB1AFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36EAC797-20F2-4BD0-852A-36A6E22C2E74}
+	EndGlobalSection
+EndGlobal
